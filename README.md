@@ -39,5 +39,5 @@ Bilgisayar Bilimleri alanındaki altyapımı, ölçeklenebilir backend mimariler
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehmettilhann&show_icons=true&theme=dark&v=1" alt="Mehmet İlhan GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Mehmettilhann&show_icons=true&theme=dark" alt="Mehmet İlhan GitHub İstatistikleri" />
 </p>
