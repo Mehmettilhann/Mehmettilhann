@@ -2,7 +2,7 @@
 
 **Backend Engineer & AI Developer**
 
-Computer Science alanındaki altyapımı, ölçeklenebilir backend mimarileri kurmak ve veri odaklı sistemler tasarlamak üzerine konumlandırıyorum. Geliştirme süreçlerinde temiz kod (Clean Code) prensiplerini uyguluyor; sürdürülebilir, güvenli ve performansı yüksek sistemler inşa etmeyi hedefliyorum.
+Bilgisayar Bilimleri alanındaki altyapımı, ölçeklenebilir backend mimarileri kurmak ve veri odaklı sistemler tasarlamak üzerine konumlandırıyorum. Geliştirme süreçlerinde temiz kod (Clean Code) prensiplerini uyguluyor; sürdürülebilir, güvenli ve performansı yüksek sistemler inşa etmeyi hedefliyorum.
 
 ---
 
