@@ -38,4 +38,6 @@ Bilgisayar Bilimleri alanındaki altyapımı, ölçeklenebilir backend mimariler
   <a href="https://kaggle.com/mehmetilhan" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
-[![Mehmet İlhan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehmettilhann&show_icons=true&theme=dark)](https://github.com/Mehmettilhann)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehmettilhann&show_icons=true&theme=dark&v=1" alt="Mehmet İlhan GitHub İstatistikleri" />
+</p>
