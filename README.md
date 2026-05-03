@@ -1,6 +1,6 @@
 # Mehmet ILHAN
 
-**Backend Engineer & AI Developer**
+**Backend & AI Developer**
 
 Bilgisayar Bilimleri alanındaki altyapımı, ölçeklenebilir backend mimarileri kurmak ve veri odaklı sistemler tasarlamak üzerine konumlandırıyorum. Geliştirme süreçlerinde temiz kod (Clean Code) prensiplerini uyguluyor; sürdürülebilir, güvenli ve performansı yüksek sistemler inşa etmeyi hedefliyorum.
 
